@@ -1,9 +1,10 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-	<meta charset="utf-8">
-	<title>Главная</title>
-
+        <meta charset="utf-8">
+        <title>Главная</title>
+        <link rel="icon" type="image/vnd.microsoft.icon" href="/i/favicon.ico" />
+        <link rel="icon" type="image/png" href="/i/favicon.png" />
 	<style type="text/css">
 
 	::selection{ background-color: #E13300; color: white; }
